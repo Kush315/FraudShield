@@ -5,3 +5,8 @@ The dataset used for this project was obtained from Kaggle. The link to the data
 The CreditCardFraudDetection using MachineLearning.ipynb notebook focuses on applying machine learning algorithms to the credit card fraud detection problem. It starts with exploratory data analysis (EDA) to gain insights into the dataset and preprocesses the data for modeling purposes.
 ### Classifier Models Implemented
 1. **Decision Tree Classifier**
+2. **Random Forest Classifier**
+3. **Logistic Regression**
+4. **Gaussian Naive Bayes**
+5. **K-Nearest Neighbors Classifier**
+6. **Gradient Boosting Classifier**
