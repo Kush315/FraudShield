@@ -10,6 +10,7 @@ The CreditCardFraudDetection using MachineLearning.ipynb notebook focuses on app
 4. **Gaussian Naive Bayes**
 5. **K-Nearest Neighbors Classifier**
 6. **Gradient Boosting Classifier**
+
 The performance of each model is compared, and the Decision Tree Classifier is identified as the best-performing one.
 ### Methodology
 1. **Data Preprocessing**
